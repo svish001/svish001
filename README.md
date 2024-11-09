@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svish001
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Games Programming
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python, Java, C, C++, HTML, CSS
+- 💞️ I’m looking to collaborate on Application Programming
 - 📫 How to reach me Sumeet Vishwakarma
 
 <!---
