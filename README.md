@@ -1,4 +1,4 @@
-# Hi, I'm Sumeet Vishkarma 👋
+# Hi, I'm Sumeet Vishwakarma 👋
 
 ### Full Stack Developer
 
