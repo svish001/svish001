@@ -1,6 +1,10 @@
-# Hi there! I'm Sumeet Vishwakarma ⚡
+# Hi, I'm Sumeet Vishkarma 👋
 
-### Full Stack Developer | Computer Science Student
+### Full Stack Developer
+
+### State University of New York, Plattsburgh
+
+### Computer Science Student
 
 🎓 Currently pursuing my Bachelor's in Computer Science with a passion for building innovative web applications.
 
@@ -9,9 +13,9 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeetbabelalv@gmail.com)
 
 ## 👨‍💻 About Me
-- 🔭 Focusing on Full Stack Development (MERN)
+- 🔭 Exploring on Full Stack Development (MERN)
 - 💻 Love creating new things and solving complex problems
-- ⚡ Constantly solving problems on LeetCode
+- ⚡ Constantly solving problems
 - 📚 Passionate about reading tech articles and staying updated with latest trends
 
 ## 🛠️ Tech Stack
