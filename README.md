@@ -52,8 +52,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/YourLeetCodeUsername?theme=dark&font=baloo&extension=activity)
